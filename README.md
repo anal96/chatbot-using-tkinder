@@ -1,22 +1,25 @@
-Python Chatbot using Tkinter
+# Python Chatbot using Tkinter
+
 This is a simple chatbot application built using Python and Tkinter for the graphical user interface. The chatbot responds to user input with predefined responses and demonstrates basic GUI handling with Tkinter.
 
-Features
-Simple and intuitive GUI: Built using Tkinter.
-Basic conversational abilities: Predefined responses for user inputs.
-Customizable: Easy to modify responses and improve functionality.
+## Features
 
-Requirements
-Python 3.x
-Tkinter (usually included with Python installations)
+- **Simple and intuitive GUI**: Built using Tkinter.
+- **Basic conversational abilities**: Predefined responses for user inputs.
+- **Customizable**: Easy to modify responses and improve functionality.
 
-Installation
-Clone the repository:
-git clone https://github.com/yourusername/python-tkinter-chatbot.git
-cd python-tkinter-chatbot
+## Requirements
 
-Run the chatbot:
-python chatbot.py
+- Python 3.x
+- Tkinter (usually included with Python installations)
+
+## Installation
+
+1. **Clone the repository:**
+
+   ```bash
+   git clone https://github.com/yourusername/python-tkinter-chatbot.git
+   cd python-tkinter-chatbot
 
 Usage
 Start the application by running chatbot.py.
