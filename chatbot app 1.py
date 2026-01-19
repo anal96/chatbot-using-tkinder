@@ -119,7 +119,7 @@ def clear_chat_window():
 
 def main():
     """Main function to run the chatbot."""
-    api_key = "AIzaSyBMr9BP9hAoGdCqT_3r4M5in9EplVaj_wA"  # Replace with your actual API key
+    api_key = "#"  # Replace with your actual API key
     model = configure_and_create_model(api_key)
     convo = model.start_chat(history=[])
 
@@ -207,3 +207,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
